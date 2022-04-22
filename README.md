@@ -1,4 +1,4 @@
-# Facial-Recognition-using-transfer-learning-with-VGG16-and-DenseNet121
+# Facial-Emotion-Recognition-using-transfer-learning-with-VGG16-and-DenseNet121
 
 
 
